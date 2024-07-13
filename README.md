@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter and react**
 
-- 👨‍💻 All of my projects are available at [https://fetse12.github.io/protifolio/](https://fetse12.github.io/protifolio/)
+- 👨‍💻 All of my projects are available at www.fitsumteka.onrender.com
 
 - 💬 Ask me about my experience **with Html, css, JavaScrip, React, Node.js, python, C++, MySQL,Flutter.**
 
