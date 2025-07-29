@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning ** Node js **
 
-- 👨‍💻 All of my projects are available at [www.fitsumteka.onrender.com](https://fitsumteka.onrender.com/)
+- All of my projects are available at [www.fitsumteka.onrender.com](https://fitsumteka.onrender.com/)
 
-- 💬 Ask me about my experience **with Html, css, JavaScrip, React, Node.js, python, C++, MySQL,Flutter.**
+- Ask me about my experience **with Html, css, JavaScrip, React, Node.js, python, C++, MySQL,Flutter.**
 
-- 📫 How to reach me **fitsumteka2019@gmail.com**
+- How to reach me **fitsumteka2019@gmail.com**
 
-- 📄 Know about my experiences [https://fetse12.github.io/protifolio/photos/Fitsum_Teka_Resume.pdf](https://fetse12.github.io/protifolio/photos/Fitsum_Teka_Resume.pdf)
+- Know about my experiences [https://fetse12.github.io/protifolio/photos/Fitsum_Teka_Resume.pdf](https://fetse12.github.io/protifolio/photos/Fitsum_Teka_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
