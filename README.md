@@ -15,8 +15,6 @@
 
 - 📄 Know about my experiences [https://fetse12.github.io/protifolio/photos/Fitsum_Teka_Resume.pdf](https://fetse12.github.io/protifolio/photos/Fitsum_Teka_Resume.pdf)
 
-- ⚡ Fun fact **I love descipline and hard work.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fitsum49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fitsum49" height="30" width="40" /></a>
