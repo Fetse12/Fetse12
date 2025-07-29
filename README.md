@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fitsum</h1>
-<h3 align="center">I am interested in and passionate about web development</h3>
+<h3 align="center">I am interested in about web development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fetse12&label=Profile%20views&color=0e75b6&style=flat" alt="fetse12" /> </p>
 
 <p align="left"> <a href="https://twitter.com/fitsum49" target="blank"><img src="https://img.shields.io/twitter/follow/fitsum49?logo=twitter&style=for-the-badge" alt="fitsum49" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter and react**
+- 🌱 I’m currently learning ** Node js **
 
 - 👨‍💻 All of my projects are available at [www.fitsumteka.onrender.com](https://fitsumteka.onrender.com/)
 
